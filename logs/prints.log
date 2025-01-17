@@ -1,0 +1,93 @@
+20:20:47.297 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+20:20:49.665 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+20:20:50.039 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+20:20:50.702 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+20:20:51.230 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+20:20:51.426 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+20:20:52.507 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+20:21:03.017 [main] INFO  stepdefinitions.LoginTest - User Logged In Successfully
+20:21:07.746 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+20:21:08.789 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+20:21:10.824 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+20:21:11.675 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+20:21:11.987 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+20:21:12.267 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+20:21:12.926 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+20:21:13.079 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+20:22:42.059 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+20:22:44.897 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+20:22:45.641 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+20:22:46.564 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+20:22:47.281 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+20:22:47.724 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+20:22:48.462 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+20:22:48.638 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+20:24:44.843 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+20:24:47.377 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+20:24:48.190 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+20:24:49.034 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+20:24:49.892 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+20:24:50.309 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+20:24:54.378 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+20:26:09.080 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+20:26:11.410 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+20:26:12.290 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+20:26:13.232 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+20:26:13.623 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+20:26:13.786 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+20:26:17.221 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+20:27:56.230 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+20:27:58.393 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+20:27:59.246 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+20:28:00.131 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+20:28:01.364 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+20:28:01.757 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+20:28:02.683 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+22:54:50.049 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+22:54:50.286 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+22:54:53.642 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+22:54:53.895 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+22:54:56.144 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+22:54:57.292 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+22:54:57.407 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+22:54:58.475 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+22:54:58.761 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+22:54:59.385 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+22:54:59.713 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+22:54:59.768 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+22:54:59.873 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+22:54:59.954 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+22:55:00.556 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+22:55:00.680 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+22:59:43.796 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+22:59:44.577 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+22:59:45.094 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+22:59:47.144 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+22:59:47.908 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+22:59:48.878 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+22:59:49.442 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+22:59:50.875 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+22:59:50.918 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+22:59:51.375 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+22:59:52.780 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+22:59:53.952 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+22:59:54.473 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+22:59:54.743 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+22:59:55.374 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+22:59:55.473 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+12:03:05.644 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+12:03:08.075 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+12:03:08.452 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+12:03:09.207 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+12:03:09.614 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+12:03:09.846 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+12:03:10.707 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+12:03:10.827 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
+12:03:26.234 [main] DEBUG stepdefinitions.LoginTest - Browser Got Launched
+12:03:27.837 [main] DEBUG stepdefinitions.LoginTest - Logged into the application
+12:03:28.167 [main] DEBUG stepdefinitions.LoginTest - Clicked On MyAccountDropdown
+12:03:28.694 [main] DEBUG stepdefinitions.LoginTest - Clicked On Login Option
+12:03:28.955 [main] DEBUG stepdefinitions.LoginTest - Entered Email_id
+12:03:29.213 [main] DEBUG stepdefinitions.LoginTest - Entered Password
+12:03:30.142 [main] DEBUG stepdefinitions.LoginTest - Clicked On LoginButton
+12:03:30.256 [main] ERROR stepdefinitions.LoginTest - User Unable to Login as Entered Invalid Credentials
