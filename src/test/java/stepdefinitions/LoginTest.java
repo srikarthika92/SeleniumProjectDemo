@@ -33,7 +33,7 @@ public class LoginTest extends Base
 		
 		System.out.println("Sai Has Updated This Code");
 		
-		System.out.println("Sai Gonna Commit it");	
+		System.out.println("Sai is commiting it");	
 		log = LogManager.getLogger(LoginTest.class.getName());
 		
 		driver=InitializeBrowser();
